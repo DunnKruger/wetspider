@@ -1,0 +1,2 @@
+# wetspider
+python weather bot
